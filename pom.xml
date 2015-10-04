@@ -28,6 +28,11 @@
                 <artifactId>commons-io</artifactId>
                 <version>2.4</version>
             </dependency>
+            <dependency>
+                <groupId>org.apache.cassandra</groupId>
+                <artifactId>cassandra-all</artifactId>
+                <version>2.2.1</version>
+            </dependency>
 
 
             <!-- Hadoop main artifact -->
